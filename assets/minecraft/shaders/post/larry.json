@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "final"
+  ],
+  "passes": [
+    {
+      "name": "cool",
+      "intarget": "minecraft:main",
+      "outtarget": "final"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "icons" : {
+    "font-icon" : {
+      "name" : "font.png",
+      "url" : ""
+    },
+
+    "home-icon" : {
+      "name" : "home.png",
+      "url" : ""
+    },
+
+    "list-icon" : {
+      "name" : "list.png",
+      "url" : ""
+    },
+
+    "paint-icon" : {
+      "name" : "paint.png",
+      "url" : ""
+    },
+
+    "screen-icon" : {
+      "name" : "screen.png",
+      "url" : ""
+    },
+
+    "script-icon" : {
+      "name" : "script.png",
+      "url" : ""
+    },
+
+    "user-icon" : {
+      "name" : "user.png",
+      "url" : ""
+    },
+
+    "waypoint-icon" : {
+      "name" : "waypoint.png",
+      "url" : ""
+    },
+
+    "copy-icon" : {
+      "name" : "copy.png",
+      "url" : ""
+    },
+
+    "paste-icon" : {
+      "name" : "paste.png",
+      "url" : ""
+    },
+
+    "tick-icon" : {
+      "name" : "tick.png",
+      "url" : ""
+    },
+
+    "font-icon" : {
+      "name" : "font.png",
+      "url" : ""
+    }
+  },
+
+  "theme" : {
+    "font" : {
+      "name" : "ProductSans.tff",
+      "url" : ""
+    },
+
+    "colors" : {
+      "accent": "#8C00BF",
+      "background": "#353536",
+      "outline": "#8C00BF",
+      "icon": "#FFFFFF",
+      "text": "#FFFFFF"
+    },
+
+    "content" : {
+      "gif" : {
+        "name" : "background.gif",
+        "url" : ""
+      },
+
+        "image" : {
+        "name" : "background.png",
+        "url" : ""
+      }
+    }
+  }
+}

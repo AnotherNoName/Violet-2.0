@@ -1,0 +1,9 @@
+{
+  "plugin": "me.ninethousand.violet.loader.launch.mixin.MixinPlugin",
+  "required": false,
+  "package": "me.ninethousand.violet.client.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "IBlock"
+  ]
+}
